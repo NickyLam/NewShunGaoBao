@@ -1,0 +1,51 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - generic [ref=e4]: 9:41
+    - generic [ref=e5]: 🔋 85%
+  - generic [ref=e6]:
+    - generic [ref=e7]: Libre 3 Plus 已连接 · 还剩 8 天
+    - generic [ref=e9]:
+      - generic [ref=e10]: 96 mg/dL
+      - generic [ref=e11]: →
+      - generic [ref=e12]: 刚刚更新
+  - generic [ref=e13]:
+    - generic [ref=e14]:
+      - generic [ref=e15]: 94%
+      - generic [ref=e16]: 范围内时间
+    - generic [ref=e17]:
+      - generic [ref=e18]: "72"
+      - generic [ref=e19]: 最低 (mg/dL)
+    - generic [ref=e20]:
+      - generic [ref=e21]: "142"
+      - generic [ref=e22]: 最高 (mg/dL)
+  - generic [ref=e23]:
+    - generic [ref=e24]: 过去 12 小时
+    - generic [ref=e25]: 📈 血糖趋势图表 (victory-native)
+  - generic [ref=e26]:
+    - button "+ 添加备注" [ref=e27] [cursor=pointer]
+    - button "📊 报告" [ref=e28] [cursor=pointer]
+  - generic [ref=e29]:
+    - generic [ref=e30]: 最近备注
+    - generic [ref=e31]:
+      - generic [ref=e32]: 🍚
+      - generic [ref=e33]:
+        - generic [ref=e34]: 饮食
+        - generic [ref=e35]: 早餐：燕麦粥 + 鸡蛋
+    - generic [ref=e36]:
+      - generic [ref=e37]: 💉
+      - generic [ref=e38]:
+        - generic [ref=e39]: 胰岛素
+        - generic [ref=e40]: 速效 8 单位
+  - generic [ref=e41]:
+    - generic [ref=e42] [cursor=pointer]:
+      - generic [ref=e43]: 🏠
+      - generic [ref=e44]: 首页
+    - generic [ref=e45] [cursor=pointer]:
+      - generic [ref=e46]: 📊
+      - generic [ref=e47]: 报告
+    - generic [ref=e48] [cursor=pointer]:
+      - generic [ref=e49]: 📝
+      - generic [ref=e50]: 备注
+    - generic [ref=e51] [cursor=pointer]:
+      - generic [ref=e52]: ⚙️
+      - generic [ref=e53]: 设置
